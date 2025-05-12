@@ -1,0 +1,14 @@
+	 Welcome To Retail
+
+ Bill Number : 7352
+ Customer Name : sj
+ Phone Number : 54321
+===========================
+Products 		QTY	Rs
+===========================
+ Rice		1	80
+ Sugar		1	0
+--------------------------
+Grocery Tax: 		Rs 8.0
+:Total Bill: 		 Rs 88.0
+----------------------------

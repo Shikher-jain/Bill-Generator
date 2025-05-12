@@ -1,0 +1,14 @@
+	 Welcome To Retail
+
+ Bill Number : 4192
+ Customer Name : e
+ Phone Number : 4
+===========================
+Products 		QTY	Rs
+===========================
+ wheat		3	720
+ Sugar		333	720
+--------------------------
+Grocery Tax: 		Rs 144.0
+:Total Bill: 		 Rs 1584.0
+----------------------------
